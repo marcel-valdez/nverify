@@ -23,9 +23,9 @@ used in any assertion scenario.
 - You can assert over the Properties of an object under test, not just the object itself.
 
 ## How to get it
-This tool is provided as a NuGet package, search for it using the name: [Testing Tools] (https://nuget.org/packages/TestingTools/)
+This tool is provided as a NuGet package, search for it using the name: [NVerify] (https://nuget.org/packages/NVerify/)
 
-You can also install it from the command line: `c:\project\dir\path> nuget install TestingTools`
+You can also install it from the command line: `c:\project\dir\path> nuget install NVerify`
 
 `TODO: Add example usage of every feature.`
 
