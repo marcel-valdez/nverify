@@ -28,7 +28,7 @@ obj/
 _ReSharper*/
 [Tt]est[Rr]esult*
 src/packages/*
-src/TestingTools.ncrunchsolution
+src/NVerify.ncrunchsolution
 lib/
 *.nupkg
 *~

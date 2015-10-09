@@ -117,7 +117,7 @@
       if (predicate == null)
         throw new ArgumentException("predicate is null.");
 
-      return new Verifiable<T>(actual, target => Assert.IsTrue(predicate(target)));
+      return new Verifiable<T>(actual, target => Assert.IsTrue(predicate(target), message));
     }
 
     /// <summary>
